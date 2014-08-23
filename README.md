@@ -1,4 +1,6 @@
 pushey
 ======
 
-PUSHEY: an external button for your tablet or moble
+PUSHEY: an external button for your tablet or mobile
+
+Prototype presentation
